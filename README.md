@@ -63,3 +63,30 @@ Tech Stack (optional)
 4. Tiled API 
 5. Firebase 
 6. Netlify
+
+
+
+
+Current Folder Structure:
+
+HEAP/
+├── classes/            
+├── src/
+│   ├── characters/
+│   │   ├── Character.js
+│   │   └── Enemy.js
+│   ├── items/
+│   │   ├── Inventory.js
+│   │   └── Item.js
+│   ├── main/
+│   │   └── Game.js
+│   ├── systems/
+│   │   ├── CombatSystem.js
+│   │   ├── DialogueSystem.js
+│   │   ├── MapSystem.js
+│   │   └── QuestSystem.js
+│   ├── index.js       
+│   └── Main.js         
+└── package.json
+└── package-lock.json
+
