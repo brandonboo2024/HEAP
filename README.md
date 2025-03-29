@@ -70,7 +70,7 @@ Tech Stack (optional)
 Current Folder Structure:
 
 HEAP/
-├── classes/            
+├── classes/ 
 ├── src/
 │   ├── characters/
 │   │   ├── Character.js
